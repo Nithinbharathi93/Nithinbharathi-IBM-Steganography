@@ -22,7 +22,7 @@ This project implements **image-based steganography** to securely hide and retri
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Nithinbharathi93/Nithinbharathi-IBM-Steganography.git
-   cd your-repo
+   cd Nithinbharathi-IBM-Steganography
    ```
 2. **Install required dependencies**  
    ```bash
