@@ -45,4 +45,4 @@ This project implements **image-based steganography** to securely hide and retri
    - The program retrieves and displays the hidden message.  
 
 ## 👨‍💻 Author
-**[Nithinbharathi.T](https://github.com/your-username)**  
+**[Nithinbharathi.T](https://github.com/Nithinbharathi93/)**  
